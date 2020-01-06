@@ -7,7 +7,7 @@ pipeline{
     stages{
         stage("Build"){
             steps{
-                sh "Bump"
+                sh "jmeter -v"
             }
         }
         stage("Testes"){
