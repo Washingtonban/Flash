@@ -1,0 +1,21 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1578341190430,180885,Requisição HTTP,504,Gateway Time-out,Grupo de Usuários 1-1,text,false,,345,191,10,10,http://api.test.fe1ec502a0c84c79ae47.westus.aksapp.io/ws-orders/api/order/lojarua/establishment/5,180878,0,614
+1578341193376,180485,Requisição HTTP,504,Gateway Time-out,Grupo de Usuários 1-2,text,false,,345,191,10,10,http://api.test.fe1ec502a0c84c79ae47.westus.aksapp.io/ws-orders/api/order/lojarua/establishment/5,180485,0,234
+1578341196374,180473,Requisição HTTP,504,Gateway Time-out,Grupo de Usuários 1-3,text,false,,345,191,10,10,http://api.test.fe1ec502a0c84c79ae47.westus.aksapp.io/ws-orders/api/order/lojarua/establishment/5,180473,0,231
+1578341199372,180476,Requisição HTTP,504,Gateway Time-out,Grupo de Usuários 1-4,text,false,,345,191,10,10,http://api.test.fe1ec502a0c84c79ae47.westus.aksapp.io/ws-orders/api/order/lojarua/establishment/5,180476,0,231
+1578341202372,180478,Requisição HTTP,504,Gateway Time-out,Grupo de Usuários 1-5,text,false,,345,191,10,10,http://api.test.fe1ec502a0c84c79ae47.westus.aksapp.io/ws-orders/api/order/lojarua/establishment/5,180478,0,237
+1578341205372,180475,Requisição HTTP,504,Gateway Time-out,Grupo de Usuários 1-6,text,false,,345,191,10,10,http://api.test.fe1ec502a0c84c79ae47.westus.aksapp.io/ws-orders/api/order/lojarua/establishment/5,180475,0,233
+1578341208371,180472,Requisição HTTP,504,Gateway Time-out,Grupo de Usuários 1-7,text,false,,345,191,10,10,http://api.test.fe1ec502a0c84c79ae47.westus.aksapp.io/ws-orders/api/order/lojarua/establishment/5,180472,0,233
+1578341211372,180473,Requisição HTTP,504,Gateway Time-out,Grupo de Usuários 1-8,text,false,,345,191,10,10,http://api.test.fe1ec502a0c84c79ae47.westus.aksapp.io/ws-orders/api/order/lojarua/establishment/5,180473,0,233
+1578341214372,180475,Requisição HTTP,504,Gateway Time-out,Grupo de Usuários 1-9,text,false,,345,191,10,10,http://api.test.fe1ec502a0c84c79ae47.westus.aksapp.io/ws-orders/api/order/lojarua/establishment/5,180475,0,234
+1578341217371,180476,Requisição HTTP,504,Gateway Time-out,Grupo de Usuários 1-10,text,false,,345,191,10,10,http://api.test.fe1ec502a0c84c79ae47.westus.aksapp.io/ws-orders/api/order/lojarua/establishment/5,180476,0,232
+1578341371322,57935,Requisição HTTP,200,,Grupo de Usuários 1-1,text,true,,314424,191,10,10,http://api.test.fe1ec502a0c84c79ae47.westus.aksapp.io/ws-orders/api/order/lojarua/establishment/5,54344,0,235
+1578341373863,55589,Requisição HTTP,200,,Grupo de Usuários 1-2,text,true,,314424,191,9,9,http://api.test.fe1ec502a0c84c79ae47.westus.aksapp.io/ws-orders/api/order/lojarua/establishment/5,51983,0,231
+1578341376848,52889,Requisição HTTP,200,,Grupo de Usuários 1-3,text,true,,314431,191,8,8,http://api.test.fe1ec502a0c84c79ae47.westus.aksapp.io/ws-orders/api/order/lojarua/establishment/5,49299,0,235
+1578341379849,50376,Requisição HTTP,200,,Grupo de Usuários 1-4,text,true,,314424,191,7,7,http://api.test.fe1ec502a0c84c79ae47.westus.aksapp.io/ws-orders/api/order/lojarua/establishment/5,46755,0,236
+1578341382851,47792,Requisição HTTP,200,,Grupo de Usuários 1-5,text,true,,314424,191,6,6,http://api.test.fe1ec502a0c84c79ae47.westus.aksapp.io/ws-orders/api/order/lojarua/establishment/5,44205,0,231
+1578341385848,44849,Requisição HTTP,200,,Grupo de Usuários 1-6,text,true,,314424,191,5,5,http://api.test.fe1ec502a0c84c79ae47.westus.aksapp.io/ws-orders/api/order/lojarua/establishment/5,41348,0,230
+1578341388844,42366,Requisição HTTP,200,,Grupo de Usuários 1-7,text,true,,314424,191,4,4,http://api.test.fe1ec502a0c84c79ae47.westus.aksapp.io/ws-orders/api/order/lojarua/establishment/5,38837,0,231
+1578341391846,39620,Requisição HTTP,200,,Grupo de Usuários 1-8,text,true,,314424,191,3,3,http://api.test.fe1ec502a0c84c79ae47.westus.aksapp.io/ws-orders/api/order/lojarua/establishment/5,36051,0,238
+1578341394848,37186,Requisição HTTP,200,,Grupo de Usuários 1-9,text,true,,314424,191,2,2,http://api.test.fe1ec502a0c84c79ae47.westus.aksapp.io/ws-orders/api/order/lojarua/establishment/5,33687,0,238
+1578341397847,34671,Requisição HTTP,200,,Grupo de Usuários 1-10,text,true,,314424,191,1,1,http://api.test.fe1ec502a0c84c79ae47.westus.aksapp.io/ws-orders/api/order/lojarua/establishment/5,31211,0,231
